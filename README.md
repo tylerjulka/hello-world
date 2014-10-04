@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-First repository
+What's up everyone!
+
+Just another guy learning how to code here.
